@@ -14,7 +14,7 @@ Then type commands like:
 to check the output. 
 
 ## Commands supported by shell:
--Taking input from file
+-Taking input from file.
 -Overwriting an existent file for output
 -Appending to an existent file for output
 -Creating an output file
